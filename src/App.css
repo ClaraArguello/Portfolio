@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+.BrainhubCarousel__arrows{
+    background-color: white !important;
+    border-radius: 50%;
+    margin: 20px;
+}
+
+.BrainhubCarousel__arrows > span{
+    border-color: black !important;
+}
+
+.BrainhubCarousel__arrows:hover{
+    background-color: white !important;
+}
+
+.BrainhubCarousel__arrows:hover > span{
+    border-color: black !important;
+}
